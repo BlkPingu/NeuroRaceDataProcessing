@@ -41,7 +41,7 @@ After augmenting the data, there will be a `numbers.csv` in the folder you start
 
 ### Known issues
 
-`visualise.py` might looking for collumns that are falsely labeled or missing. Adjustments can be made fairly easily by changing column names in either`numbers.csv`  or `visulise.py` .
+`visualise.py` might looking for collumns that are falsely labeled or missing. Adjustments can be made fairly easily by changing column names in either`numbers.csv`  or `visualise.py` .
 
 Apart from that, the code has no known issues. Make sure not to end paths with `/` since `os.path.join` does not like that. 
 
