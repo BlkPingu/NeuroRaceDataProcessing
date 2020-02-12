@@ -3,20 +3,17 @@
 
 [![DOI](https://zenodo.org/badge/240088009.svg)](https://zenodo.org/badge/latestdoi/240088009)
 
-This direcory contains tooling to map NeuroRacer data. It a prequisite is that you have access to a directory containing such data. 
+This directory contains tooling to map NeuroRacer data. It is a prequisite that you have access to a directory containing such data. 
 
-NeuroRacer's data packages usually contain a `.yaml` with metadata and a subfolder system like `zed/left/image_raw_color/compressed` containing the cameras pictures. 
+NeuroRacer's data packages usually contain a `.yaml` with metadata and a subfolder system like `zed/left/image_raw_color/compressed`, containing the cameras pictures. 
 
-The 2 functions if this tooling is mapping and augmenting the mapped data.
+The 2 functions if this tooling contains is mapping and augmenting the mapped data.
 
 These functions have been split and can be executed separately to optimise runtimes.
 
-The datamapper is designed to be deployed on a remote system and for a path containing one or more pacages of NeuroRacer data. It will then look for the `.yaml` and the image data in all folders down the path.
+The datamapper is designed to be deployed on a remote system and for a path containing one or more packages of NeuroRacer data. It will then look for the `.yaml` and the image data in all folders down the path.
 
 The augmenter is then used to augment the mapped images, also remotely.
-
-
-
 
 
 ###  Map the data
