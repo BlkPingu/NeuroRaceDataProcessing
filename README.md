@@ -1,6 +1,7 @@
+
 # README
 
-
+Citation: [![DOI](https://zenodo.org/badge/240088009.svg)](https://zenodo.org/badge/latestdoi/240088009)
 
 This direcory contains tooling to map NeuroRacer data. It a prequisite is that you have access to a directory containing such data. 
 
