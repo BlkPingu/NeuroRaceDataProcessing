@@ -50,4 +50,4 @@ Apart from that, the code has no known issues. Make sure not to end paths with `
 
 
 
-**Questions? Email me [hello@tobiaskolb.dev](hello@tobiaskolb.dev)**
+**Questions? Contact me: [hello@tobiaskolb.dev](hello@tobiaskolb.dev)**
