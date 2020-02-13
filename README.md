@@ -48,4 +48,6 @@ After augmenting the data, there will be a `numbers.csv` in the folder you start
 
 Apart from that, the code has no known issues. Make sure not to end paths with `/` since `os.path.join` does not like that. 
 
-Questions? Email me [hello@tobiaskolb.dev](hello@tobiaskolb.dev)
+
+
+**Questions? Email me [hello@tobiaskolb.dev](hello@tobiaskolb.dev)**
